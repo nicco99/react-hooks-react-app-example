@@ -263,7 +263,7 @@ extension.
 
 After installing, restart your browser, then go to `http://localhost:3000` to
 view our React application. Open your browser's developer tools, and find the
-**Components** tab. Here, you'll see the component hierarchy with information
+**Componetns** tab. Here, you'll see the component hierarchy with information
 about all the components we're using so far in the app!
 
 ![React Developer Tools Screenshot](https://curriculum-content.s3.amazonaws.com/phase-2/react-hooks-react-app-example/devtools.png)
